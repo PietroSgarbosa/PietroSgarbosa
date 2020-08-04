@@ -1,16 +1,22 @@
-### Hi there 👋
+```markdown
 
-<!--
-**PietroSgarbosa/PietroSgarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pietro Sgarbosa
 
-Here are some ideas to get you started:
+## Hello Word! 👋
+Sou um iniciante no mundo do desenvolvimento procurando pelo meu lugar de direito entre os zeros e um. 
+Atualmente cursando Análise e Desenvolvimento de Sistemas e estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <ol type="Estudos">
+     <li>Html5</li>
+     <li>CSS3</li>
+     <li>React.js</li>
+     <li>Vue.js</li>
+     <li>Javascript</li>
+  </ol>
+  
+ <br/> 💬  &nbsp; Sobre mim: Tecnologia faz parte da minha vida assim como artes digitais e jogos (Overwatch alguém ai?);
+ 
+ <br/> :email: &nbsp; Entre em contato comigo:(https://www.linkedin.com/in/pietro-sgarbosa-580a59137/)(pietrosgarbosa@gmail.com)
+
+```
+
